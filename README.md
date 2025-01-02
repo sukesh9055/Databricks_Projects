@@ -1,1 +1,3 @@
 # Databricks_Traffic_Analysis_Project
+
+I developed a project using Databricks, leveraging workflows, jobs, and delta tables to process and manage data. The data was loaded using the medallion architecture, with a particular focus on the golden layer for high-quality, cleaned data. I worked with traffic and traffic roads datasets to analyze patterns and trends. The processed data was then visualized in Power BI, providing insightful and actionable visualizations for stakeholders. The integration of Databricks for data processing and Power BI for visualization enabled seamless analysis and reporting, offering valuable insights into traffic patterns and road usage.
